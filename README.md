@@ -83,7 +83,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [x] [Merkle Proofs](https://indigocore.org/documentation/v0.1.0/references/proof-of-existence/)
 
 ## Distributed Systems
-- [ ] [Consistency](https://en.wikipedia.org/wiki/Consistency_model)
+- [x] [Consistency](https://en.wikipedia.org/wiki/Consistency_model)
 - [ ] [Consensus](https://en.wikipedia.org/wiki/Consensus_%28computer_science%29)
 - [ ] [Linearizable](https://en.wikipedia.org/wiki/Linearizability)
 - [ ] [Eventual Consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
