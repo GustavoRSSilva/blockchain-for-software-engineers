@@ -85,7 +85,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 ## Distributed Systems
 - [x] [Consistency](https://en.wikipedia.org/wiki/Consistency_model)
 - [x] [Consensus](https://en.wikipedia.org/wiki/Consensus_%28computer_science%29)
-- [ ] [Linearizable](https://en.wikipedia.org/wiki/Linearizability)
+- [x] [Linearizable](https://en.wikipedia.org/wiki/Linearizability)
 - [ ] [Eventual Consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
 - [ ] [Fault Tolerance](https://en.wikipedia.org/wiki/Fault_tolerance)
   - [ ] [Paxos](https://en.wikipedia.org/wiki/Paxos_%28computer_science%29)
