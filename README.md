@@ -91,7 +91,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
   - [x] [Paxos](https://en.wikipedia.org/wiki/Paxos_%28computer_science%29)
   - [x] [RAFT](https://en.wikipedia.org/wiki/Raft_%28computer_science%29)
 - [x] [Time In a Distributed System](https://www.youtube.com/watch?v=BRvj8PykSc4)
-- [ ] [Tradeoff: Safety vs. Liveness](http://www.bailis.org/blog/safety-and-liveness-eventual-consistency-is-not-safe/)
+- [x] [Tradeoff: Safety vs. Liveness](http://www.bailis.org/blog/safety-and-liveness-eventual-consistency-is-not-safe/)
 - [ ] [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
   - [ ] [PBFT](https://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
 - [ ] [Distributed Databases](https://en.wikipedia.org/wiki/Distributed_database)
