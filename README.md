@@ -104,7 +104,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
     - [x] [Kademilia](https://en.wikipedia.org/wiki/Kademlia)
 
 ## Networking
-- [ ] [Computer Networking](https://en.wikipedia.org/wiki/Computer_network)
+- [x] [Computer Networking](https://en.wikipedia.org/wiki/Computer_network)
   - [ ] [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
   - [ ] [The Packet Model](https://en.wikipedia.org/wiki/Network_packet)
   - [ ] [Internet Routing](https://en.wikipedia.org/wiki/Routing)
