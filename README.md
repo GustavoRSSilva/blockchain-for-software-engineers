@@ -106,7 +106,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 ## Networking
 - [x] [Computer Networking](https://en.wikipedia.org/wiki/Computer_network)
   - [x] [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
-  - [ ] [The Packet Model](https://en.wikipedia.org/wiki/Network_packet)
+  - [x] [The Packet Model](https://en.wikipedia.org/wiki/Network_packet)
   - [ ] [Internet Routing](https://en.wikipedia.org/wiki/Routing)
 - [ ] [Gossip Protocols](https://en.wikipedia.org/wiki/Gossip_protocol)
   - [ ] [Flooding](https://en.wikipedia.org/wiki/Flooding_%28computer_networking%29)
