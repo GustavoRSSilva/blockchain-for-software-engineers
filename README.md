@@ -110,7 +110,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
   - [x] [Internet Routing](https://en.wikipedia.org/wiki/Routing)
 - [x] [Gossip Protocols](https://en.wikipedia.org/wiki/Gossip_protocol)
   - [x] [Flooding](https://en.wikipedia.org/wiki/Flooding_%28computer_networking%29)
-- [ ] [P2P Network Design](https://en.wikipedia.org/wiki/Peer-to-peer)
+- [x] [P2P Network Design](https://en.wikipedia.org/wiki/Peer-to-peer)
   - [ ] [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
   - [ ] [Tor](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29)
 
