@@ -112,7 +112,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
   - [x] [Flooding](https://en.wikipedia.org/wiki/Flooding_%28computer_networking%29)
 - [x] [P2P Network Design](https://en.wikipedia.org/wiki/Peer-to-peer)
   - [x] [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
-  - [ ] [Tor](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29)
+  - [x] [Tor](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29)
 
 ## Economics
 - [ ] [Game Theory](https://en.wikipedia.org/wiki/Game_theory)
