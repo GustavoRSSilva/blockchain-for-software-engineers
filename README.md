@@ -116,7 +116,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 
 ## Economics
 - [x] [Game Theory](https://en.wikipedia.org/wiki/Game_theory)
-  - [ ] [Nash Equilibria](https://en.wikipedia.org/wiki/Nash_equilibrium)
+  - [x] [Nash Equilibria](https://en.wikipedia.org/wiki/Nash_equilibrium)
   - [ ] [Schelling Point](https://en.wikipedia.org/wiki/Focal_point_%28game_theory%29)
 - [ ] [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
   - [ ] [Monetary policy](https://en.wikipedia.org/wiki/Monetary_policy)
